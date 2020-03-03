@@ -1,0 +1,6 @@
+node*
+vendor*
+.gitignore
+.vscode
+.idea*
+.DS_Store
